@@ -1,4 +1,5 @@
 ## Hi there 👋
+- I am currently learning about GitHub to enhance my skills in health data science
 
 <!--
 **SoeHtutAung/SoeHtutAung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
