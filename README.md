@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mingalarbar! 
 - I am currently learning about GitHub to enhance my skills in health data science
 
 <!--
